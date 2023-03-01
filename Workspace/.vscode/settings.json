@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "P5.C": "cpp",
+        "P2.C": "cpp",
+        "P4.C": "cpp",
+        "P9.C": "cpp",
+        "P10.C": "cpp",
+        "P1.C": "cpp",
+        "stdio.h": "c",
+        "MAIN.C": "cpp",
+        "main1.C": "cpp",
+        "mainprogram.C": "cpp"
+    }
+}
